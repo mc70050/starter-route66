@@ -6,9 +6,9 @@ $config['menu_choices'] = array(
     'menudata' => array(
         array('name' => 'Alpha', 'link' => '/able'),
         array('name' => 'Bravo', 'link' => '/bravo'),
+        array('name' => 'Echo', 'link' => '/echo/must/wehave'),
         array('name' => 'Charlie', 'link' => '/charlie/brown'),
         array('name' => 'Delta', 'link' => '/delta/force'),
-        array('name' => 'Echo', 'link' => '#'),
         array('name' => 'Foxtrot', 'link' => '/foxtrot'),
         array('name' => 'Golf', 'link' => '#'),
         array('name' => 'Hotel', 'link' => '#'),
